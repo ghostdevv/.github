@@ -1,0 +1,1 @@
+Defaults for the .github folder in all my repos
